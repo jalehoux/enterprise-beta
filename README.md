@@ -19,7 +19,7 @@ To view the live site click the [link](https://ent3rprise-beta.herokuapp.com/log
 
 * **Ian Cogswell** - *Front End Ninja and Project Visionary* - [Github](https://github.com/aroarian)
 * **Jacob Lehoux** - *Back End Jedi and Express Superfan* - [Github](https://github.com/jalehoux)
-* **Christina Russell** - *Database Queen and Sequelize Evangeligist* - [Github](https://github.com/crussell84)
+* **Christine Russell** - *Database Queen and Sequelize Evangeligist* - [Github](https://github.com/crussell84)
 
 ## Acknowledgments
 
